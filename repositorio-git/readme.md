@@ -4,6 +4,8 @@ MANTENIMIENTO EFICIENTE Y CONFIABLE DE ARCHIVOS
 
 ##DIEGO INTENTADO
 
+##SEGUNDO INTENTO :D
+
 ## Zonas de Git
 1. Direcctorio de trabajo
 2. Area de preparacion
