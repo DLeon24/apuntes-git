@@ -1,4 +1,8 @@
 ##curso git desde cero
+SISTEMA DE CONTROL DE VERSIONES PARA EL 
+MANTENIMIENTO EFICIENTE Y CONFIABLE DE ARCHIVOS
+
+
 
 ## Zonas de Git
 1. Direcctorio de trabajo
