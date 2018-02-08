@@ -1,2 +1,2 @@
-###. gitignores
-patros de nombres de archivos que git ignorara
+### este archivo sera ignorado por git
+secreto.md
